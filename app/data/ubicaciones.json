@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "latitud": -34.63538,
+        "longitud": -58.52072,
+        "direccion": "Estadio Velez"
+    },
+    {
+        "id" : 2,
+        "latitud": -34.82921,
+        "longitud": -65.43444,
+        "direccion": "Centro de Convenciones"
+    },
+    {
+        "id" : 3,
+        "latitud": -31.36892,
+        "longitud": -64.24615,
+        "direccion": "Estadio Kempes"
+    },
+    {
+        "id" : 4,
+        "latitud": -34.60186,
+        "longitud": -58.36892,
+        "direccion": "Teatro Luna Park"
+    },
+    {
+        "id" : 5,
+        "latitud": -32.89776,
+        "longitud": -68.85015,
+        "direccion": "Auditorio Ángel Bustelo"
+    },
+    {
+        "id" : 6,
+        "latitud": -32.92883,
+        "longitud": -60.66958,
+        "direccion": "Metropolitano Rosario"
+    }
+]

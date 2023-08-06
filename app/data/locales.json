@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Black Sabbath",
+        "imagen": "image_1.png",
+        "id_ubicacion": 1
+    },
+    {
+        "nombre": "Rhapsody of Fire",
+        "imagen": "image_2.png",
+        "id_ubicacion": 2
+    },
+    {
+        "nombre": "Megadeth",
+        "imagen": "image_3.png",
+        "id_ubicacion": 3
+    },
+    {
+        "nombre": "Linkin Park",
+        "imagen": "image_4.png",
+        "id_ubicacion": 4
+    },
+    {
+        "nombre": "Pantera",
+        "imagen": "image_5.png",
+        "id_ubicacion": 5
+    },
+    {
+        "nombre": "Stratovarius",
+        "imagen": "image_6.png",
+        "id_ubicacion": 6
+    }
+]
